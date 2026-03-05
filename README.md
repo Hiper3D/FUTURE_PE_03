@@ -20,4 +20,5 @@ The master prompt (`master_prompt.txt`) is engineered to mirror the workflow of 
 
 ## Tools Used
 * Generative AI (Google Gemini)
+* Generative AI (OpenAI ChatGPT)
 * GitHub for version control and documentation
