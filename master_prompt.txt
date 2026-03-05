@@ -1,22 +1,24 @@
-Act as an Expert SEO Strategist and Technical Copywriter. I need a complete SEO Content Pack for a local B2B tech service business. 
+Act as an Expert SEO Strategist and Technical Copywriter. I need a complete SEO Content Pack for a local B2B tech service business. Follow the framework below strictly.
 
 VARIABLES:
 - Business Name: Kalinga Cloud & IT Solutions
-- Business Niche: B2B IT Services & AWS Cloud Migration
+- Business Niche: B2B IT Services & Managed Cloud Solutions
 - Location: Bhubaneswar, Odisha
 - Primary Keyword: "Cloud migration services in Bhubaneswar"
-- Supporting Keywords: AWS migration cost, IT support Odisha, data security small business.
+- Goal: Generate high-intent local B2B leads.
 
 DELIVERABLES:
-Generate the following elements in order:
+You must generate the following 3 sections in order:
 
 1. KEYWORD + INTENT EXPLANATION:
-Briefly explain the search intent behind the primary keyword and why this strategy will drive high-quality local leads.
+Explain the search intent behind the primary keyword. Why is this specific keyword valuable for this local business?
 
 2. SUPPORTING BLOGS (CONTENT CLUSTER):
-Provide titles and a 1-sentence summary for 3 supporting blogs that will internally link to the main Pillar Blog.
+Generate 4 supporting blog titles that will internally link to the main Pillar Blog. For each, provide a 1-sentence summary of what it covers to build topical authority.
 
 3. PILLAR BLOG (MAIN SEO ARTICLE):
 Write a comprehensive, long-form SEO blog targeting the Primary Keyword. 
-- Constraints: Must use H1, H2, and H3 tags. Must naturally weave in the location (Bhubaneswar/Odisha). 
-- Tone: Professional, authoritative, and focused on business value (uptime, security, scalability). Include a clear CTA at the end.
+- Structure: Must use strict H1, H2, and H3 formatting. 
+- Local SEO: Naturally integrate the location (Bhubaneswar/Odisha) and service keywords.
+- Content: Focus on business value (scalability, replacing physical servers, enterprise-grade security, zero downtime). 
+- Conclusion: End with a strong, business-focused CTA.
