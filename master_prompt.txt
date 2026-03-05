@@ -1,0 +1,22 @@
+Act as an Expert SEO Strategist and Technical Copywriter. I need a complete SEO Content Pack for a local B2B tech service business. 
+
+VARIABLES:
+- Business Name: Kalinga Cloud & IT Solutions
+- Business Niche: B2B IT Services & AWS Cloud Migration
+- Location: Bhubaneswar, Odisha
+- Primary Keyword: "Cloud migration services in Bhubaneswar"
+- Supporting Keywords: AWS migration cost, IT support Odisha, data security small business.
+
+DELIVERABLES:
+Generate the following elements in order:
+
+1. KEYWORD + INTENT EXPLANATION:
+Briefly explain the search intent behind the primary keyword and why this strategy will drive high-quality local leads.
+
+2. SUPPORTING BLOGS (CONTENT CLUSTER):
+Provide titles and a 1-sentence summary for 3 supporting blogs that will internally link to the main Pillar Blog.
+
+3. PILLAR BLOG (MAIN SEO ARTICLE):
+Write a comprehensive, long-form SEO blog targeting the Primary Keyword. 
+- Constraints: Must use H1, H2, and H3 tags. Must naturally weave in the location (Bhubaneswar/Odisha). 
+- Tone: Professional, authoritative, and focused on business value (uptime, security, scalability). Include a clear CTA at the end.
